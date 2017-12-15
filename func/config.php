@@ -1,6 +1,6 @@
     <?php
     $host="88.99.232.203:3320";
-    $user="InstaHash";
+    $user="instaHash";
     $pass="PassInstaHash1";
     $db_name="instaHash";
     $link=mysql_connect($host,$user,$pass,$db_name);
